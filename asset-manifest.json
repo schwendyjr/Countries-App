@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/schwendyjr/Countries-App.git/static/css/main.6ff5f719.css",
+    "main.js": "/schwendyjr/Countries-App.git/static/js/main.bc7291b8.js",
+    "index.html": "/schwendyjr/Countries-App.git/index.html",
+    "main.6ff5f719.css.map": "/schwendyjr/Countries-App.git/static/css/main.6ff5f719.css.map",
+    "main.bc7291b8.js.map": "/schwendyjr/Countries-App.git/static/js/main.bc7291b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff5f719.css",
+    "static/js/main.bc7291b8.js"
+  ]
+}
