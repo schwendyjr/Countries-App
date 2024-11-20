@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/schwendyjr/Countries-App.git/static/css/main.6ff5f719.css",
-    "main.js": "/schwendyjr/Countries-App.git/static/js/main.bc7291b8.js",
-    "index.html": "/schwendyjr/Countries-App.git/index.html",
-    "main.6ff5f719.css.map": "/schwendyjr/Countries-App.git/static/css/main.6ff5f719.css.map",
-    "main.bc7291b8.js.map": "/schwendyjr/Countries-App.git/static/js/main.bc7291b8.js.map"
+    "main.css": "/Countries-App/static/css/main.6ff5f719.css",
+    "main.js": "/Countries-App/static/js/main.bc7291b8.js",
+    "index.html": "/Countries-App/index.html",
+    "main.6ff5f719.css.map": "/Countries-App/static/css/main.6ff5f719.css.map",
+    "main.bc7291b8.js.map": "/Countries-App/static/js/main.bc7291b8.js.map"
   },
   "entrypoints": [
     "static/css/main.6ff5f719.css",
